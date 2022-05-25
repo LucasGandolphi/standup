@@ -1,0 +1,57 @@
+@import "@/assets/base.css";
+body {
+  background-image: url(../standupforum/src/assets/fundomadeira.jpg);
+}
+header {
+  background-color: darkred;
+  padding: 1em;
+}
+#maintit {
+  color: white;
+}
+main {
+  border-radius: 20px;
+  background-color: white;
+  margin: auto;
+  padding: 5em;
+  padding-top: 1em;
+  margin-top: 5em;
+  width: 60%;
+  text-align: center;
+}
+#genero nav {
+  margin: 2px;
+  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: yellow;
+  border-radius: 10px;
+  position: relative;
+  float: left;
+}
+#genero {
+  display: inline-block;
+}
+#genero a {
+  color: orangered;
+  text-decoration: none;
+}
+#genero h2 {
+  text-align: center;
+}
+#intsec {
+  width: 100%;
+  background-color: darkred;
+  text-align: center;
+}
+#intsec a {
+  color: white;
+  text-decoration: none;
+}
+#logdiv a {
+  color: white;
+  text-decoration: none;
+}
+#saberm a {
+  text-decoration: none;
+}
